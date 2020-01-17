@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "kernel.h": "c",
+        "types.h": "c",
+        "ide.h": "c",
+        "math.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
